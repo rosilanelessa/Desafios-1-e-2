@@ -1,0 +1,978 @@
+Resumo Estruturado da Reunião (20/10/2025, 13h29) 
+Participantes:   - Rogerio Alcantara de Freita (PrestServ)   - Rosilane Lessa da Fonte (PrestServ)   - Eduardo Lopes de Sousa   - Raiane Gabriele dos Santos Pinheiro 
+Transcrição 
+20 de outubro de 2025, 01:29PM 
+Rogerio Alcantara de Freita - PrestServ começou a transcrição 
+Rogerio Alcantara de Freita - PrestServ   0:03 
+A princípio, ele vai entrar. Ele não comentou nada que que não conseguiria. 
+Rosilane Lessa da Fonte - PrestServ   0:08 
+Uhum. 
+Eduardo Lopes de Sousa   1:26 
+Bom dia, meus amigos. 
+Rosilane Lessa da Fonte - PrestServ   1:32 
+Bom dia. 
+Raiane Gabriele dos Santos Pinheiro   1:33 
+Bandido. 
+Eduardo Lopes de Sousa   1:35 
+Bom. 
+PÚBLICA 
+Rogerio Alcantara de Freita - PrestServ   1:36 
+Bom dia. 
+Rosilane Lessa da Fonte - PrestServ   1:41 
+Foi ótimo. 
+Vou compartilhar aqui então, para a gente iniciar. 
+Deixa eu. 
+Dar uma passada aqui, né? Com você que acho que AA. Como a Raiane 
+não conseguiu? A Raiane não conseguiu participar, né? Da reunião ali de apresentação 
+na quinta-feira. 
+Acho que você entrou a gente. 
+Raiane Gabriele dos Santos Pinheiro   2:09 
+O Rose é só uma coisa. Não consegui entrar, mas eu tentei. Eu pedi, solicitei 
+acesso, tá? O Painel e eu não tenho ainda. Eu solicitei na própria quinta-feira e ainda 
+não foi concebido pra mim. 
+Rosilane Lessa da Fonte - PrestServ   2:23 
+Vou falar com Jorge, tá? Porque essa questão do acesso é, mas com Jorge, mas eu vou 
+dar um toque nele, tá bom? Vou falar com ele. Ele Na Na sala é então assim, o que a 
+gente, o que a gente fez, né? De entrega foi primeiro, né essa? 
+A avaliação aqui de compromissos, né? Trazendo aqui, eu tentei trazer o máximo ali 
+próximo, né? Dentro do que vocês tinham solicitado ali, né? Com relação ao visual a as 
+a única coisa assim que eu não consegui manter na mesma integridade. 
+Visual foram os ícones, vocês podem avaliar, porque assim os ícones que a gente utiliza 
+aqui são ícones padrões, né? Porque como eu trouxe de forma tabular, eu vou até 
+mostrar aqui para vocês quais são os ícones que eu tenho disponível aí eu? 
+Trouxe esses, mas eu tenho outros aqui, se for o caso de vocês preferirem, né? 
+Ah, espera aí. 
+Deixa eu colocar aqui, trazendo. 
+Porque os ícones que a gente tem assim, por padrão do Power BI para para poder 
+manter, né? Essas condições aqui, né, são esses aqui. 
+Aí eu não sei se o que eu utilizo ali pra vocês estão satisfatório ou se vocês gostariam de 
+utilizar outros dentro do dentro desse, desse links aqui né, de ícones? 
+PÚBLICA 
+Raiane Gabriele dos Santos Pinheiro   4:11 
+Eu não vejo problema não, Rose, como está? Não sei se a Edu vê aí, mas para mim está 
+tranquilo. 
+Rosilane Lessa da Fonte - PrestServ   4:17 
+Tá ótimo, então. 
+Eduardo Lopes de Sousa   4:19 
+É o Rose. Eu IA só te falar, uns, propor pra vocês um negócio. Eu olhei ali a primeira vez 
+e teve uma coisa assim que eu falei, pô, não sei o que que é, mas alguma coisa 
+não, tá? 
+Eu acho que sabe quando tu tem a sensação de que pode ter alguma coisa ali 
+que tá esturrando e aí eu cheguei a conclusão, agora que você mostrou de novo, depois 
+passar um tempo, né? É bom passar um tempo. Você olha de novo essa Barrinha 
+amarela do concluído. 
+É concluído? Ah, não é o é o é o concluído, é o amarelo. Aí é que eu acho que ele ficou 
+legal, sabe? 
+Raiane Gabriele dos Santos Pinheiro   5:01 
+É concluído mesmo? Edu, eu, você falou agora eu. 
+Rosilane Lessa da Fonte - PrestServ   5:01 
+Tá? 
+Eduardo Lopes de Sousa   5:06 
+Né? Ali a gente usa um outro código, não sei se é bolinha cinza que eu tô vendo ali. Não 
+tem tracinho amarelo, né? Tem bolinha é, não tem tracinho cinza. 
+Rosilane Lessa da Fonte - PrestServ   5:19 
+É? 
+PÚBLICA 
+Eduardo Lopes de Sousa   5:20 
+Mas tem bolinha cinza, talvez não sei se ele. 
+Rosilane Lessa da Fonte - PrestServ   5:23 
+Essa aqui. 
+Raiane Gabriele dos Santos Pinheiro   5:23 
+Bolinha verde não é do bolinha verde não, né? Concluído não, né? 
+Do tipo? 
+Eduardo Lopes de Sousa   5:29 
+Pois é, não sei, cara, vamos ver, fazer uns testes aí vamos ver. A gente pode ver eu ver 
+aqui fica melhor. 
+Rosilane Lessa da Fonte - PrestServ   5:35 
+Ah, isso aí já. 
+Ó, vou botar esse aqui OOA bolinha cinza, tá? E vou botar aqui o bolinha verde, porque 
+esse aqui é quando a ele, se ele acho que ele, quando atinge aqui Oo 70% ou é o 
+inverso, agora eu tenho que olhar a regra que eu coloquei lá. 
+Eduardo Lopes de Sousa   5:40 
+Eu compromisso. 
+Rosilane Lessa da Fonte - PrestServ   5:57 
+Lá que eu trouxe, como atingiu 70%, sim ou não, que aí você marca, né? 
+Pode? 
+Se eu vou botar aqui no M3 EOM 3, que tem ali que aí depois eu aplico as 
+regras pra pros outros? 
+Aí ficaria assim, ó, queria ficaria o verde ou ou amarelo como ponto de atenção. Aí esse 
+verde, né? Que seria que ele já atingiu os 70%? Tá vendo? E o amarelo, como já você já 
+usava mesmo como ponto de atenção aí pro. 
+Concluído é aqui embaixo, eu vou mudar esse aqui também, só para vocês terem 11 
+PÚBLICA 
+noção de visual, né? Que aí depois eu aplico para os outros. 
+Se assim fica bom, olha. 
+Eduardo Lopes de Sousa   7:27 
+Pois é, ali ficam só fica, depois você você usou MA, 03. 
+4, né? É a gente, em tese, ali não podia, não poderia ficar o verde porque ele não foi 
+avaliado, entendeu? 
+Rosilane Lessa da Fonte - PrestServ   7:34 
+Eu usei, é 04. Esse aqui, ó que. 
+Eduardo Lopes de Sousa   7:46 
+Por isso que ele tá sem até a barra. Não tá cheia, né? Tá vazia, a gente não valeu ele. 
+Rosilane Lessa da Fonte - PrestServ   7:51 
+Ah, pra mim, a pra mim o cheio é. Queria atender atingiu os 100%, não seria isso? 
+Eduardo Lopes de Sousa   7:55 
+Então? 
+Então você essa 100% cinza ali a barre. 
+É, é pra todos. Você vê que tá igual, tá vendo? Todo mundo tem 100 por centro. Esse é 
+OA nota máxima e a nota verdadeira de cada um teve que cada um teve. É o 
+que tá colorido em verde, amarelo, azul. 
+Rosilane Lessa da Fonte - PrestServ   8:07 
+Uhum. 
+Uhum. 
+Ah. 
+Ah, tá, mas mas quando ele chegar aqui a atingir 100%, ele vai mostrar a cor aqui em 
+100% que pra. 
+Eduardo Lopes de Sousa   8:26 
+Todo verde, 100% isso. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   8:29 
+Ah, tá, então eu tenho que mudar isso aqui, porque para mim é quando assim ele já 
+atingiu, então ele não foi avaliada. Eu tenho que mudar isso, então. 
+Eduardo Lopes de Sousa   8:32 
+É o cinza que tá por trás ali é meio que assim, qual é OA nota máxima? Qual é o padrão 
+isso. 
+Rosilane Lessa da Fonte - PrestServ   8:43 
+É o padrão. 
+Tá bom? 
+Eduardo Lopes de Sousa   8:47 
+Por isso que eu acho que até é a bolinha verde. Como. 
+Ele é um. É um indicativo de ponto de atenção, né? A bolinha amarela é um indicativo 
+de ponto de atenção, então, ou tem ou não tem, não é que tem verde. A gente já tá. Se 
+ele tá acima ou se ele tá abaixo da régua, isso já tá escrito, já tá dito No No gráfico de 
+barra. 
+Rosilane Lessa da Fonte - PrestServ   9:13 
+Aham. 
+Eduardo Lopes de Sousa   9:13 
+Então, ali é, é um reforço. A bolinha amarela é quando tem um reforço de de que tem 
+ponto de atenção ou não. Uma solução talvez seja ela. Ele só mostra a bolinha amarela 
+e nos outros, caso até quando tem ponto de atenção, né? 
+Que está abaixo da do sarrafo, né? Que é a linha de 70% e quando está acima do 
+sarrafo, deixa sem nada, vou deixar sem nada. Se não tiver um outro ícone aí, melhor. 
+E? 
+Raiane Gabriele dos Santos Pinheiro   9:49 
+O Edu deixa eu. Deixa eu ver se eu entendi aqui essa bolinha amarela são para aqueles 
+PÚBLICA 
+compromissos que a gente no primeiro momento definiu levar para a diretoria. Não é 
+isso? 
+Rosilane Lessa da Fonte - PrestServ   9:50 
+Tá? 
+Eduardo Lopes de Sousa   9:52 
+Clarice aqui está criticado. 
+É, e que são aqueles que têm menos de 70%, né? 
+Raiane Gabriele dos Santos Pinheiro   10:04 
+Uhum. 
+Tá, e qual é a sua sugestão? 
+Eduardo Lopes de Sousa   10:10 
+Deixar como a gente tava com no gráfico, né? Que a gente fez no PowerPoint, né? A 
+gente só tem bolinha amarela, não tem nenhum outro ícone pra. 
+Pra pra os que estão bem, né? Que estão acima do sábado ou que não foram avaliados, 
+só botou a bolinha amarela naqueles que estão abaixo de sair. É porque acho que no 
+gráfico eu botei um tracinho assim, um tipo hífen, né? 
+Raiane Gabriele dos Santos Pinheiro   10:28 
+Sei. 
+Sim, sim, sim, sim. 
+Rosilane Lessa da Fonte - PrestServ   10:34 
+Isso é. É. É. 
+Raiane Gabriele dos Santos Pinheiro   10:34 
+Oi. Oi. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   10:39 
+Então eu só Marco só os pontos de atenção, os os que estão acima dos 70 ou que não 
+tem nada, fica tudo em deixa tudo em branco. 
+Eduardo Lopes de Sousa   10:50 
+É ou não dá pra botar um item? Não, né? 
+Raiane Gabriele dos Santos Pinheiro   10:54 
+É, porque. 
+Rosilane Lessa da Fonte - PrestServ   10:54 
+Não é porque a condição é os ícones de condição, são esses aqui que eu te mostrei, ó, 
+que aí eu aí eu posso trazer como padrão pra todos os outros. 
+Que no ponto de atenção, aí eu trago aqui, tá vendo? 
+Raiane Gabriele dos Santos Pinheiro   11:12 
+É porque eu. Eu IA sugerir que a gente usasse essa bolinha verde Edu para aqueles 
+pontos é os bons, sabe? Já que a gente tá trazendo os pontos de atenção igual a gente 
+fez o nosso trabalho, mesmo que a gente traz os pontos de atenção e o os a esqueci a 
+palavra que a gente usa. 
+Tipo assim, os os que estão bem. 
+Os destaques e isso aí eu assim né, pra pra eu ler o gráfico e já me trazer todas as 
+informações. Então o que tá com bolinha amarela? É pontos de atenção. O que tá com 
+bolinha verde são tipo, os benchmarks internos, né? E aí os outros ícones seguiria para 
+as outras coisas e aqueles que não são. 
+Nenhum destaque e nem nada só está em 70%, manteria sem nada. 
+Eduardo Lopes de Sousa   12:02 
+É também pode. Agora não sei se a gente consegue dizer uma regra pra Rose, né? 
+Porque esse destaque foi qualitativo, né? A Rose não vai conseguir parametrizar isso no 
+Painel. 
+Rosilane Lessa da Fonte - PrestServ   12:14 
+É porque eu tô me baseando pela aquela coluna lá onde você escreve, né? 
+Se é mantido, mantido com ajuste, aí dentro disso eu consigo classificar aqui o ícone. 
+PÚBLICA 
+Eduardo Lopes de Sousa   12:35 
+Eu usasse aquela coluna lá, você não faz conta, né? Daria para a gente colocar na 
+planilha assim, o que é destaque? O que, o que a ele falou, eu daria para fazer mesmo. 
+Você tem que também atualizar depois a legenda, né? 
+Rosilane Lessa da Fonte - PrestServ   12:49 
+Isso é legenda, eu vou. Eu vou ajustar aqui. 
+Aí assim aí como que a gente fica? Então vocês vão, vocês conseguem trazer essa nova 
+regra aí pra gente poder aplicar? 
+Aqui, ou a gente mantém como vocês falaram, como você falou antes, boto somente o 
+nessa linha aqui de de de diagnóstico, né? As bolinhas amarelas com ponto de atenção 
+e os demais, deixa tudo em branco. 
+Eduardo Lopes de Sousa   13:25 
+É, acho que é isso, né? 
+Rosilane Lessa da Fonte - PrestServ   13:34 
+Tá? 
+Aí na proposta da proposta é que a gente usa lá o porque da proposta que que 
+eu tô usando lá de fato. Lá aqueles mantidos, mantido com ajuste. Aqui eu criei 
+uma regra, né? Porque eu, pela regra do dos 70%. 
+100. Aí assim, o que tá abaixo dos 70? Eu boto ponto de atenção. O que tá acima eu vou 
+trazer em branco que aí eu botei um é um sim e um não AEEO da proposta que eu de 
+fato utilizo ali o que tá, né, escrito? 
+Eduardo Lopes de Sousa   14:12 
+Entendi, entendi, entendi. 
+Rosilane Lessa da Fonte - PrestServ   14:14 
+Entendeu? Aí é da proposta que eu utilizo realmente o que tá escrito ali, que aí é. Eu 
+criei aqui AA ó manter com ajuste eu trouxe com esse ícone o manter puro. Eu trouxe 
+assim o revisar. Eu trouxe uma estrelinha. 
+E esse aqui, eu vou trazer em branco, né? Porque na verdade ele não teve nada, né? 
+PÚBLICA 
+Eduardo Lopes de Sousa   14:42 
+Essa aí você, eu. 
+Rosilane Lessa da Fonte - PrestServ   14:42 
+Esse centro é o concluído. Concluído esse aqui é o concluído, o concluído fica assim 
+mesmo com cinza.  
+Eduardo Lopes de Sousa   14:44 
+Então, com tudo isso, acho que pode. Eu acho que pode ficar o cinda mesmo. 
+Rosilane Lessa da Fonte - PrestServ   14:52 
+Uhum, tá? 
+Eduardo Lopes de Sousa   14:53 
+Não sei se você vai, concorda? 
+Raiane Gabriele dos Santos Pinheiro   14:58 
+Edo, sim. 
+Rosilane Lessa da Fonte - PrestServ   15:00 
+Então? 
+Eduardo Lopes de Sousa   15:01 
+Lá no de cima, agora que você esclareceu, né? É melhor ser parte da regra aí, dos 70% 
+você faz a conta mesmo. 
+Rosilane Lessa da Fonte - PrestServ   15:09 
+Isso é. É, eu faço a conta e trago uma fragzinha de sim ou não. Se ele atingiu ou não 
+atingiu 70%, aí eu trago ali como sim ou não, e. 
+EEE aplico. 
+PÚBLICA 
+Eduardo Lopes de Sousa   15:22 
+Hum? 
+Rosilane Lessa da Fonte - PrestServ   15:26 
+Se ele não atingiu, aí eu trago como ponto de atenção. E se ele atingiu, eu deixo em 
+branco. 
+Raiane Gabriele dos Santos Pinheiro   15:37 
+Isso é o Edu, você está no presencial, né? 
+Rosilane Lessa da Fonte - PrestServ   15:38 
+A gente pode manter assim, né? 
+Eduardo Lopes de Sousa   15:45 
+Tudo, né? 
+Raiane Gabriele dos Santos Pinheiro   15:47 
+Ah, vai. É complicado. Eu até brinco que tem obra, tem reforma, tem menino chorando. 
+A gente não ouve nada, mas quando está no AIDS tem é maior do que tudo 
+isso é é Rose, porque assim, o que que a gente quer comunicar nesse gráfico? A gente 
+quer comunicar os pontos de atenção, os. 
+Rosilane Lessa da Fonte - PrestServ   15:56 
+Não. 
+Raiane Gabriele dos Santos Pinheiro   16:05 
+Os, os que estão muito bem, né? O que foi revisado, mantido e tal e tal e tal. Então 
+assim, os que não tem nenhuma informação para ser comunicada não precisa trazer 
+nada, entendeu? Para não confundir. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   16:17 
+Tá bom, tá ótimo. Então tá aí na legenda. Eu senti falta aqui. Acho que na legenda de 
+vocês não tem o não tem o não tem ali escrito também o concluído eu posso trazer 
+aqui, né? Eu boto aqui na legenda OA bolinha cinza, escrito como concluído pra saber 
+que. 
+Representa isso, né? Essa bolinha cinza. 
+Raiane Gabriele dos Santos Pinheiro   16:46 
+Sim. 
+Rosilane Lessa da Fonte - PrestServ   16:47 
+Tá bom? Aí desse gráfico seria da desse visual aqui seria mais isso aí? Acho que aí 
+depois eu aplico aqui para eu vou. Eu reescrevo aqui essas regras, aplicando para tudo. 
+A gente passou aqui, ó, eu trouxe aqui o tuti trazendo aqui as informações, né? 
+Da da descrição ali de. 
+De cada de cada, do dos reais, do PE. Tá vendo como que tinha solicitado antes e com 
+o seu percentual de do score ali do que ele tá atingido, tá? 
+Eduardo Lopes de Sousa   17:23 
+Essa aí ficou bom, então, valeu. 
+Rosilane Lessa da Fonte - PrestServ   17:25 
+Aí aqui que me esclarece porque eu tinha, eu tinha aplicado quando quando não tinha 
+nada como fosse, 100% eu mantenho assim, esse 100% ou eu trago como zero. O score 
+é zero, né? No caso. 
+Que agora eu entendi, não é isso? 
+Eduardo Lopes de Sousa   17:47 
+É tu traz 10, né? TCD pelo. 
+Raiane Gabriele dos Santos Pinheiro   17:49 
+É? 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   17:49 
+Aham, você traz como zero, aham, eu vou, eu vou corrigir isso, tá? Porque eu tinha 
+entendido que como assim, Ah, ele já atendeu, ele já atingiu e 100 ele não. Ele não traz 
+a segunda barra. Ele fica assim é. 
+Eduardo Lopes de Sousa   18:01 
+Pois é ao certo, né? Não era nem não seria nem isso, né? Pra esses casos aí que não 
+tem, que estão vazios. Eles foram que nós não avaliamos, entendeu? Então ele não é 
+nem zero nem 100, ele é vazio. 
+Rosilane Lessa da Fonte - PrestServ   18:08 
+Uhum. 
+Uhum. 
+Eduardo Lopes de Sousa   18:16 
+Não sei o que que tá aparecendo lá na minha tabela, né? Mas. 
+Rosilane Lessa da Fonte - PrestServ   18:21 
+É ele tá como vazio, ele tá como nulo, mas aí se eu trouxer como nulo ele não vai 
+representar esses gráficos, essas Barras, eu tenho que botar um valor, nem que seja 
+zero. 
+Eduardo Lopes de Sousa   18:21 
+Talvez até. 
+Entendi. 
+É o mais parecida, zero. 
+Rosilane Lessa da Fonte - PrestServ   18:41 
+Tá bom, eu vou corrigir isso também, que aí fica dentro da isso aqui foi o entendimento 
+equivocado da minha parte. Aí é. 
+Eduardo Lopes de Sousa   18:51 
+Sé, mas vai ficar ruim, viu Rose? Estou pensando aqui, vai ficar bom. Não, Sério, cara. 
+PÚBLICA 
+Quem não conhece vai ler quem não tem nenhum, nenhuma observação dizendo aí na 
+tela que ele não foi avaliado, né? 
+Rosilane Lessa da Fonte - PrestServ   19:05 
+Uhum. 
+Eduardo Lopes de Sousa   19:06 
+E aí o cara vai, pô, tiramos zero nesse indicador aí. Que absurdo, chama o diretor 
+chama o corpo de bombeiro. Sabe como é. Essas coisas são assim. Vamos pensar na 
+outra saída aí para esses casos, para me mostrar zero. 
+Rosilane Lessa da Fonte - PrestServ   19:18 
+Entendi. 
+Eduardo Lopes de Sousa   19:24 
+Nós trazer nem sei, né? 
+Rosilane Lessa da Fonte - PrestServ   19:28 
+Tá, eu vou ver o que que eu consigo. 
+Tá bom, é aí. 
+Eduardo Lopes de Sousa   19:43 
+Só uma coisinha aqui, ver se você eu vou perguntar pra Rai, ver se ela que ela entende 
+que fica melhor naquele essa estrelinha que é do revisar. 
+Rosilane Lessa da Fonte - PrestServ   19:53 
+Deixa eu voltar. 
+Eduardo Lopes de Sousa   19:56 
+A gente vai acabar que. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   20:07 
+Hum? 
+Eduardo Lopes de Sousa   20:08 
+No No andar daqui do da carruagem, nos debates e tal, a gente até é reviu essa 
+posição. Eles não vão ser mais revisados, eles vão ser mantidos. E o? 
+Mas o amarelo ali a gente, eu, pelo menos tenho muito isso na cabeça, né? O que não é 
+verde tá ruim, então o revisar não necessariamente é que tá ruim, né? Ele tá fazendo 
+uma proposta até muitas vezes de melhorar, né? A métrica. 
+Então não sei se o amarelo ali na estrelinha seria o melhor, mas talvez o verde, o que 
+que tu acha, Maia? 
+Raiane Gabriele dos Santos Pinheiro   20:46 
+Edu, eu acho sinceramente que a gente é nem devia trazer esse revisar pensando aqui 
+assim, porque assim o trabalho do diagnóstico é não vai indicar aquilo que vai ser que 
+vai ser revisado, né? 
+Tipo assim, não é? Não é entrega, a gente não vai dizer no diagnóstico, é tende. Quando 
+você bota revisar, parece que a gente tá dizendo o que a pessoa tem que fazer, né? Ou 
+seja, o diagnóstico saiu aqui com pontos positivos, pontos de melhoria é e dizendo que 
+tem que ser. 
+Ser revisado, né? A gente disse revisar assim, sabe? Eu acho que é, não sei, não sei, 
+estou pensando aqui. 
+Eduardo Lopes de Sousa   21:36 
+Mas aqui é a proposta, né, cara? Essa proposta aqui, tanto o manter quanto o manter 
+com ajuste, não é uma proposta nossa, tanto que é a proposta do PN, mas o 
+diagnóstico é a nossa parte, está em cima do 2529 do diagnóstico. 
+Raiane Gabriele dos Santos Pinheiro   21:43 
+Sim. 
+Eu acho que. 
+Isso. 
+E? 
+Entende, Edu? Eu acho que a gente não devia nem trazer essa informação, 
+por exemplo. Assim, né? Até eu falei isso na reunião do fórum, que essa informação, 
+PÚBLICA 
+inclusive ela nem é nem estava alinhado com no primeiro momento, com o que de fato 
+aconteceu, porque para algo ser revisado, ser mantido, ser ajustado, tinha que passar 
+pelo. 
+Diretoria por gerentes executivos e etc, etc. E o nosso diagnóstico está aqui para dizer, 
+esse é um ponto sensível. Esse é um ponto, é. É um ponto ótimo e talvez lá no final, na 
+hora que a gente mostra que eles sabe. 
+Aqueles os compromissos escritos, a versão mesmo ali, eu acho que até cairia um. É 
+indica revisar, manter com ajuste ou manter, entendeu? A gente poderia ter nomeado 
+tipo assim? É. É Panorama ou sugestões da parte do diagnóstico? 
+Outra aba e trazer essa informação, mas eu acho que nesse gráfico aqui a gente não 
+deveria trazer isso, Edu, porque esse gráfico aqui é para trazer assim. Qual é A Entrega 
+do diagnóstico? Entende? E a revisão dos compromissos não necessariamente estão 
+alinhados com o diagnóstico. 
+Eduardo Lopes de Sousa   23:00 
+Já? 
+Concordo contigo, concordo sempre, sempre. 
+Nesse caso, então, a gente mata essa segunda linha PN 26 de 30, é isso? 
+Raiane Gabriele dos Santos Pinheiro   23:15 
+Isso e aí a gente poderia ter uma outra, uma outra aba e aí a gente colocaria uma 
+síntese, né? E aí a gente apresentaria esse aqui, são os compromissos. Esse aqui são 
+as sugestões dos do, do, das ações. Aí a gente colocaria essa informação, mas não é 
+essa não. Porque assim, né? 
+É o diagnóstico, não tem esse trabalho, né, de dizer o que é que tem que ser revisado e 
+isso não foi não, seguiu o diagnóstico, né? Tanto que a gente indicou 7 ações e 5 foram 
+revisados e desses, nem nem necessariamente o que o diagnóstico estava 
+apresentando. Acho que o diagnóstico, esse gráfico tem que mostrar só o diagnóstico. 
+Tira tudo e bota esses negócios lá no fundo, lá no final. Então, lá nessa outra aba. 
+Perdeu 11. 
+Rosilane Lessa da Fonte - PrestServ   24:05 
+Entendi. Então, na verdade, a gente tá fazendo uma mudança aqui, né? É 
+de entendimento, a gente não vai trazer essa é, é. É esses 2 indicadores aqui de 
+diagnóstico e proposta. A gente vai trazer somente o diagnóstico, essa linha de baixo. 
+PÚBLICA 
+Eduardo Lopes de Sousa   24:18 
+A gente fora da Maia. 
+Rosilane Lessa da Fonte - PrestServ   24:20 
+A gente vai retirar desse desse visual aí eu não entendi. Aonde você vai incluir é se você 
+vai ter um com o mesmo, mas somente com a linha de proposta, um outro, uma outra 
+aba com a linha de proposta. 
+Raiane Gabriele dos Santos Pinheiro   24:39 
+Sim, é. É um passo que a gente daria depois. Rose, só assim. Porque assim, né, qual é o 
+trabalho? O objetivo do diagnóstico, massa, crítica e proposições de revisão dos 
+compromissos. Então a gente colocaria aqui mais uma aba com tipo assim, 
+proposições de revisão, um exemplo? 
+Aí a gente traria também um gráfico que já tem com essas decisões e a gente poderia 
+usar esses caracteres, entende? Mas seria uma outra aba, a gente te passaria isso 
+depois. 
+Rosilane Lessa da Fonte - PrestServ   25:10 
+Entendi, tá, tá bom. 
+É, eu faço aqui a mudança e depois eu mostro para vocês que só vai tirar essa linha 
+aqui meio de fato. E a legenda só fica com um ponto de atenção, certo? 
+Eduardo Lopes de Sousa   25:36 
+Mudança fica a última que cortou para mim aqui, que foi tomar uma mudança. 
+Rosilane Lessa da Fonte - PrestServ   25:42 
+Oi. 
+Eduardo Lopes de Sousa   25:44 
+Cortou para mim aqui, eu não consegui te ouvir. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   25:46 
+É a mudança, será é, a gente vai manter somente a linha aqui do diagnóstico, 
+né? Aonde tem com com seus indicadores aqui marcando somente ponto de atenção, 
+não vai ter a linha aqui da proposta e na legenda a gente vai ter uma legenda somente 
+tendo o ícone aqui amarelinho de ponto de atenção. 
+Eduardo Lopes de Sousa   26:07 
+Isso aí. 
+Rosilane Lessa da Fonte - PrestServ   26:10 
+Está aí, seguindo aqui para. 
+A gente a gente segue, né? É clicando lá e a gente vem pra essa outra tela aqui, que é da 
+que a gente vem trazendo as relações aqui, dos compromissos, né? Dentro da de atuar 
+com integridade. 
+Tudo que tem de estado lá, de compromissos pra pra esses, pra essas informações 
+com a tabela e tal, com teus valores aqui, de cada coluna, né, que tem representado e 
+o seu PN 2630 aqui. 
+De marcação, aí tem um. Aí eu trouxe aqui uma outra ideia aqui de botãozinho, que 
+aquele não tinha ficado legal, né, que eu apresentei? 
+Eduardo Lopes de Sousa   26:54 
+Boa. 
+Rosilane Lessa da Fonte - PrestServ   27:02 
+Ficou mais. Mais. 
+Eduardo Lopes de Sousa   27:05 
+Olha aí, Rai, essa ficou legal. Rose, essa setinha ficou melhor do que a outra 
+que tava agora aqui, Hein Rai? Será que esse daqui já não, já não fica legal desse jeito, 
+é? 
+Rosilane Lessa da Fonte - PrestServ   27:09 
+É. É. 
+PÚBLICA 
+Raiane Gabriele dos Santos Pinheiro   27:10 
+Entendi. 
+Da conta, né? Acho acho, não precisava. Nem eu IA falar isso agora, quando Rose 
+parasse de falar, eu acho, Edu, acho que esse é um lugar onde a gente pode trazer essa 
+informação daquilo que vai ser revisado, mantido com ajuste, mantido. É até bom que 
+f
+ica menos poluição assim, visual naqueles gráficozinhos, né? 
+Rosilane Lessa da Fonte - PrestServ   27:36 
+Ah, beleza, então. 
+Raiane Gabriele dos Santos Pinheiro   27:36 
+Passa. 
+Rosilane Lessa da Fonte - PrestServ   27:39 
+Aí, isso que eu iria perguntar dessa forma aqui ficou bom pra vocês? As cores assim, 
+né? Aqui no branco, as cores de fundo azul e trazendo aqui pra poder clarear mais, né? 
+O ícone. 
+Aí aqui não tem ponto de atenção, né? Nesse caso, aqui na legenda a gente aqui não 
+traz ponto de atenção, porque a gente aqui só traz é se é revisado, mantido, mantido 
+com ajuste ou concluído, não é isso. 
+Eduardo Lopes de Sousa   28:10 
+Isso mesmo. 
+Raiane Gabriele dos Santos Pinheiro   28:11 
+Isso. 
+Rosilane Lessa da Fonte - PrestServ   28:13 
+Tá aqui, a gente tira da legenda esse ponto de atenção, tá bom? Aí eu posso manter o 
+concluído com aquela bolinha cinza, né? 
+PÚBLICA 
+Raiane Gabriele dos Santos Pinheiro   28:27 
+Sim, acho que sim. 
+Rosilane Lessa da Fonte - PrestServ   28:31 
+Tá, tá bom. 
+Raiane Gabriele dos Santos Pinheiro   28:34 
+Aí, Rose, eu acho que é esse ponto de atenção que você tá falando, você não vai 
+colocar nessa última coluna não, né? Você colocaria aí do lado do entende? Porque o 
+ideal é que essa coluna aqui a gente tivesse só as decisões voltadas para o PN. 
+Rosilane Lessa da Fonte - PrestServ   28:35 
+Tá? 
+Raiane Gabriele dos Santos Pinheiro   28:53 
+2630, que que você acha, né? E é esse ponto de atenção que você colocaria onde? 
+Rosilane Lessa da Fonte - PrestServ   28:55 
+Isso. 
+Esse ponto de atenção, ele não está representando nesse primeiro aqui. 
+Raiane Gabriele dos Santos Pinheiro   29:05 
+Sim, eu. Eu estou falando porque nesse nesse desenho aí também tem, né? A bolinha, 
+ponto de atenção. 
+Rosilane Lessa da Fonte - PrestServ   29:11 
+É, então é que eu copiei OA legenda que estava lá No No visual que vocês 
+disponibilizaram pra gente, é isso que eu aí é essa da minha dúvida, porque eu eu não 
+sei se nessa coluna aqui de PN 2630 você vai trazer como vai trazer também um 
+descritivo de pontos de, o que que é? 
+PÚBLICA 
+Raiane Gabriele dos Santos Pinheiro   29:20 
+Sim. 
+Rosilane Lessa da Fonte - PrestServ   29:31 
+Ponto de atenção, eu deixei. 
+Raiane Gabriele dos Santos Pinheiro   29:32 
+Então a minha. Ah, pode falar. 
+Rosilane Lessa da Fonte - PrestServ   29:35 
+Eu deixei aqui porque tinha lá, mas era um ponto que eu queria ver com você, que para 
+mim, não faria sentido. Aí eu iria. Só estou confirmando para retirar, entendeu? 
+Raiane Gabriele dos Santos Pinheiro   29:44 
+É, eu acho também. E aí eu fazer 11 sugestão, né? Esse, esse. Essa última coluna 
+f
+icaria, de fato, só as decisões voltadas para o compromisso e você colocar nas 
+setinhas meio que setinhas de cores diferentes para os compromissos que tem ponto 
+de atenção, entendeu? 
+Rosilane Lessa da Fonte - PrestServ   30:05 
+Mas aí eu posso trazer porque as setinhas na verdade, deixa eu pegar aqui, ó, vou trazer 
+para você, porque tem uma. Tem as questões da da limitação, né? Os ícones aqui da 
+setinha. 
+São os mesmos, as mesmas cores, ó, anão ser que eu traga uma setinha assim, 
+amarela, pode ser. 
+Raiane Gabriele dos Santos Pinheiro   30:26 
+É, eu acho que você não acha não, Edu? Só porque assim, quando a gente abrir 
+essa essa vista, a gente poder dizer assim, Ah, vamos falar aqui daqueles que tem 
+ponto de atenção ou então daqueles que foram muito bem e os outros são só os 
+outros, podem deixar essa setinha cinza? 
+Que que você acha do né? 
+PÚBLICA 
+Eduardo Lopes de Sousa   30:42 
+Concordo, concordo no nosso slide. Está assim também aqueles que têm quanto de 
+atenção ela está com uma seta está com um ícone diferente. 
+Raiane Gabriele dos Santos Pinheiro   30:49 
+Diferente, né? Então a gente o ponto de atenção, você podia colocar um ícone, não 
+precisa nem de repente ser certo, não sei. Mas, enfim, aqueles que tem é os que são 
+muito bons também. Rose é bota uma setinha diferente e os demais acho que. 
+Rosilane Lessa da Fonte - PrestServ   30:56 
+Uhum. 
+Raiane Gabriele dos Santos Pinheiro   31:05 
+Deixa. 
+Eduardo Lopes de Sousa   31:06 
+É, deixa assim até 67 fica ruim, não? Rose, é porque só é porque tem um negócio de 
+clicar, né? Tem que ter para o. Para o usuário poder poder entender que da lixar uma 
+outra tela, né? 
+Rosilane Lessa da Fonte - PrestServ   31:14 
+Isso tem que é. 
+Isso, mas eu não vi essa essa diferença aqui no de vocês, ó, vamos resgatar aqui que eu 
+me baseei nesse aqui. 
+Eduardo Lopes de Sousa   31:30 
+Pois é, mas olha que Felicidade aí porque eu colei aí justamente um que não tem 
+nenhum ponto de atenção, sacanagem, pô, pera aí, quer ver? Ó, vou te passar um outro 
+aqui que tem. 
+Rosilane Lessa da Fonte - PrestServ   31:38 
+PÚBLICA 
+É, aí eu fico. 
+Ah. 
+Eduardo Lopes de Sousa   31:48 
+É covardia, né Rose? 
+Rosilane Lessa da Fonte - PrestServ   31:50 
+É porque aí eu estou me baseando pelo pelo layout que está aqui aí pra mim não. Eu 
+não levaria em critério, né? O score, né? Que na verdade o ponto de atenção é o que 
+está abaixo de 70, né? Que é o ponto de atenção. 
+Eduardo Lopes de Sousa   31:57 
+Esporte, pode ser? 
+Rosilane Lessa da Fonte - PrestServ   32:08 
+Entendi. 
+Pode, pode ser? 
+Eduardo Lopes de Sousa   32:15 
+10. 
+Rosilane Lessa da Fonte - PrestServ   32:26 
+Então, aqui eu vou criar um, eu vou ter que criar lá mais uma condição pra poder trazer 
+aqui também, de abaixo, abaixo de 70 eu trago ali, amarelinho, posso trazer com uma 
+setinha amarela EE acima de 70 eu trago tudo como cinza. 
+E o que não tiver? 
+E o que não tiver nada, deixa eu ver aqui tem. Acho que tem uns aqui que não tem 
+nada. 
+Estaria aí? 
+Rogerio Alcantara de Freita - PrestServ   32:59 
+Isso aí que eu vou pra outra reunião, tá ok? 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   33:01 
+Tá legal, Rogério, obrigada aí. 
+Rogerio Alcantara de Freita - PrestServ   33:04 
+Valeu, pessoal. Bom trabalho para todos. 
+Eduardo Lopes de Sousa   33:06 
+Cruzamento, João. 
+Rosilane Lessa da Fonte - PrestServ   33:10 
+Ó, quer ver? Deixa eu ver aqui esse aqui, ó, esse aqui é um bom exemplo. Ó pra gente se 
+basear nas regras. 
+Porque esse aqui, lá ele como ele tá, tá num ele tá trazendo aqui 0% aí aqui, na verdade 
+é para trazer nada, né? Nem esse zero aqui é para trazer vazio, né, tá? Eu vou, eu vou 
+criar uma regra para poder fazer isso e. 
+Eduardo Lopes de Sousa   33:29 
+Que é pra trazer vazio. Exato, isso aí. 
+Isso. 
+Raiane Gabriele dos Santos Pinheiro   33:33 
+Isso. 
+Rosilane Lessa da Fonte - PrestServ   33:39 
+Aí trazendo vazio, mas aqui eu não posso deixar a seta assim cinza. 
+Eduardo Lopes de Sousa   33:48 
+Então isso que eu arrecalo, por exemplo, esses os que a gente não avaliou é não teria 
+que ter certo a nenhum, porque realmente não tem para onde navegar. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   33:57 
+Ah, é? 
+Eduardo Lopes de Sousa   33:58 
+É isso aí, por exemplo, e o de cima que a gente também não avaliou. E o último que a 
+gente também não avaliou, embora ele. 
+Rosilane Lessa da Fonte - PrestServ   34:01 
+Hum? 
+Mas olha só, mas aí em porque para mim, vocês só não avaliaram um que está aqui, 0% 
+esses outros aqui. Vocês já iniciaram em qual coluna que eu vou me basear não é o 
+score, não. 
+Eduardo Lopes de Sousa   34:20 
+É, eu vou ter que dar uma limpada nesse daí pra você, porque aí eu outra vez 
+trabalhando na base de idade que esse esse, por exemplo, essa é a terceira linha que é 
+a mulheres na cantina, né? A gente deixou ali um 89% na primeira coluna é tem uns 
+18% na última. 
+Rosilane Lessa da Fonte - PrestServ   34:21 
+Em qual? 
+Eduardo Lopes de Sousa   34:40 
+Coluna lá, calculando o score total. Eu vou zerar lá a tabela na mão, certo? 
+Rosilane Lessa da Fonte - PrestServ   34:42 
+É porque eu tô, eu tô olhando pra essa tabela aqui, ó. 
+Eduardo Lopes de Sousa   34:49 
+Temos a história da pequena. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   34:50 
+Aí eu tô pegando o score. Começo total geral, né? Que eu vi que é ele. 
+Tá, eu tô. Eu tô aquela aquela planilha lá, ela corresponde a esse. Aquele visual lá 
+corresponde a essa tabela aqui. 
+Eduardo Lopes de Sousa   34:58 
+Vou deixar vazio. 
+Tá legal, eu ajusto lá. 
+Aí vou deixar vazio. Como aparece essa linha 6 aí dessa tabela pra você? 
+Sim, rosa rosa. 
+Rosilane Lessa da Fonte - PrestServ   35:18 
+Tá? 
+Aí, tá bom? Aí aí eu crio essa regra, então do que, do que se não tiver nada, ele não tem, 
+não vai ter botão. 
+Tá? 
+Tem que ver como que eu vou fazer isso. 
+Então, só quando tiver. 
+E os OE, os os acima de 70% eu trago como cinza e abaixo de 70% como amarelo, 
+botando assim tá e esse não tem esse tá em zero aqui. Ele não tem 
+botão pra poder ir pra lugar nenhum. 
+Beleza. 
+Eduardo Lopes de Sousa   36:21 
+Valentes. 
+Rosilane Lessa da Fonte - PrestServ   36:24 
+Mas aí eu, você. Vocês preferem aí eu trago aqui isso também aqui na legenda, o que 
+que significa, né? A setinha cinza o que que significa a setinha dela? É é, eu boto aqui 
+também, tá bom? 
+Eduardo Lopes de Sousa   36:33 
+É, vai ter que dar uma atualizada. Na legenda. O trânsito. 
+PÚBLICA 
+Raiane Gabriele dos Santos Pinheiro   36:36 
+Isso. 
+Rosilane Lessa da Fonte - PrestServ   36:39 
+Tá ok aí? 
+O que que eu mais, o que que eu esse aí é a regra vai ser igual para todos. Aí eu vou 
+ajustar. 
+Vou trazer pra esse pra esse aqui que já tem. 
+Aí vindo pra cá, pra esse visual, é. 
+É isso aqui, né? Do que, do que foi solicitado ali, né? De informação aí aqui ele vai 
+mudar, automático quando estiver assim, para não manter Oo manutenção ou revisão 
+e quando tiver o texto Oo descritivo ali dos comentários. 
+Reais e comentários específicos. Ele também vai trazer porque acho que a coluna 
+lá tá em branca, tá? 
+Eduardo Lopes de Sousa   37:33 
+Ah, é, tá bom, vou trazer pra cá. 
+Rosilane Lessa da Fonte - PrestServ   37:34 
+É? 
+Raiane Gabriele dos Santos Pinheiro   37:38 
+Outra coisa, Rose, é que nesse nesse slide aí a gente conseguia é clicar e abrir OOO 
+compromisso. Lembra do? 
+Daqueles que, pelo menos é quando a gente é aqui na do lado da manutenção. Tinha 
+uma bolinha. Não sei se você consegue ver aí e essa bolinha. Quando a gente clicava 
+nela, a gente abria lá. 11 outro slide. 
+Rosilane Lessa da Fonte - PrestServ   38:12 
+Ah, essa setinha aqui. 
+Raiane Gabriele dos Santos Pinheiro   38:14 
+PÚBLICA 
+Não? Então essa setinha que abria voltava para o Painel, aquele que você vai mudar a 
+setinha de cor. E aí é que é porque nesse combo nesse não tem porque isso aí não teve 
+nada de indicativo de nada, mas a gente tem que, se você quiser, eu abro aqui e manda 
+aqui. 
+Rosilane Lessa da Fonte - PrestServ   38:19 
+Aham. 
+Pois. 
+Não sei. 
+É. Então é. 
+Raiane Gabriele dos Santos Pinheiro   38:34 
+Aqui no chat, mas basicamente é assim aqui, Rose, do lado de manutenção ou revisão, 
+aquilo que tinha revisão tinha uma bolinha que a gente clicava e já abria lá. O slide do 
+compromisso. Mas aí eu não sei se a gente consegue fazer isso, né? Du? Porque aí já é 
+uma outra base, né? 
+Rosilane Lessa da Fonte - PrestServ   38:40 
+Aham. 
+Eduardo Lopes de Sousa   38:48 
+Isso aí é. Então é então e essa bolinha a gente chamava, era para já trazer a 
+proposta, né Rai? O que que era e é o que você falou. Eu acho que aqui eu pararia por 
+aqui, sabe? É. 
+Raiane Gabriele dos Santos Pinheiro   38:53 
+É? 
+A proposta de revisão é. 
+Não é objetivo, né? É, né? 
+Eduardo Lopes de Sousa   39:06 
+Eu acho que pararia por aí. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   39:09 
+Então aí ele está bem dentro do que foi solicitado aí passando eu só não consigo trazer 
+os valores aqui do jeito que está naquele outro, porque aí é uma particularidade do 
+visual, só passando assim que você consegue ver. 
+Tá, ou. 
+Eduardo Lopes de Sousa   39:31 
+Eu achei que ficou ótimo esse aí, cara, né? 
+Rosilane Lessa da Fonte - PrestServ   39:33 
+Vou pedir pra mostrar, tá dentro do que tá aqui. Não precisaria fazer ajuste, né? Aqui é 
+isso mesmo. 
+Eduardo Lopes de Sousa   39:42 
+É aí o caso é mesmo eu popular lá os dados, né? Sei onde que eu vou botar esse troço 
+lá? Os comentários. Mas eu tenho que carregar no Excel, né? 
+Rosilane Lessa da Fonte - PrestServ   39:46 
+Uhum. 
+Isso aí. 
+Eduardo Lopes de Sousa   39:52 
+Onde que eu posso colocar os comentários? Fala, mostra para mim aí, Rose, onde fica 
+melhor para você? 
+Rosilane Lessa da Fonte - PrestServ   39:56 
+Os comentários, os comentários de você eu já estou trazendo, deixa eu ver aqui qual é 
+a coluna, então acho que eu estou trazendo isso. Eu estou trazendo aqui, ó do lá do 
+output, você já tem a coluna lá, só que a coluna está em branco. 
+Eduardo Lopes de Sousa   40:00 
+Abre. 
+Ah, então tá, até esqueci. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   40:12 
+Entendeu? É aqui, ó. 
+Já está aqui, ó. 
+Ah, comentários específicos e gerais. Só que tá, só não tá preenchida. 
+Eduardo Lopes de Sousa   40:23 
+Ah, boa esse comentários gerais eu vi que eu fiz um merge das células ali. É 
+ruim pra você, né? 
+Rosilane Lessa da Fonte - PrestServ   40:30 
+É. É, tem que ser dela, se liga. 
+Eduardo Lopes de Sousa   40:33 
+É fácil. Eu repito, por exemplo, o comentário geral, ele é de um compromisso. Ele não é 
+de uma dimensão. Repito mesmo. O comentário geral em todas as dimensões. 
+Rosilane Lessa da Fonte - PrestServ   40:44 
+Não, mas eu é. Eu acho que você pode manter, pode fazer o teste, deixando assim é do 
+jeito que está, porque eu acho que aqui eu não estou trazendo por por dimensão, eu 
+estou trazendo ele direto, deixa eu ver aqui como se eu tenho algum filtro aqui. 
+Eu tenho um filtro aqui, ó só dos compromissos. 
+Aí eu posso botar aqui todos os compromissos, entendeu? Que se refere a isso? Eu não 
+preciso elegar nenhum compromisso e tem aqui da posição que é da integridade que é 
+isso aqui. 
+Ele vai manter, tá vendo que são é, aham, é aí a gente avalia. Eu acho melhor. 
+Pode preencher do jeito que tá aí a gente avalia, porque senão vai poluir também a 
+forma de você preencher, né? 
+Eduardo Lopes de Sousa   41:22 
+Tá bom, vou preencher lá qualquer coisa e você me fala se não der amanhã. 
+É é repetido, mas menos mal, não tem problema. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   41:38 
+Uhum. 
+É aí a gente avalia aí assim. 
+Eduardo Lopes de Sousa   41:42 
+Agora ô Rose, deixa eu te falar uma outra parada é esse xizão aí que tá aí na marcação 
+do sim não e da manutenção e revisão a gente não tem nada mais bonitinho, não mais 
+charmoso pra botar aí. 
+Rosilane Lessa da Fonte - PrestServ   41:56 
+Posso. Posso ver, vocês preferem o que um checkzinho, o que que vocês sugerem? 
+Eduardo Lopes de Sousa   42:02 
+Acho que a gente quer que Zinho mais leve aí, tá meio que grandão demais. 
+Raiane Gabriele dos Santos Pinheiro   42:06 
+Verdade, né? 
+Rosilane Lessa da Fonte - PrestServ   42:07 
+Tá, posso diminuir também o tamanho dele, tá? 
+Tá como 11 tag, botei aqui, ó, posso vim diminuindo aqui. 
+Aí é uma questão, ou posso trazer aqui, ver de ser x sem uma outra coisa? Tá vendo 
+aqui, ó é que eu deixei grande. 
+Eduardo Lopes de Sousa   42:25 
+Não. 
+Ah, melhorou. 
+Rosilane Lessa da Fonte - PrestServ   42:36 
+Tá? 
+Eduardo Lopes de Sousa   42:37 
+PÚBLICA 
+Esse é meu lado de design de interiores, falando mais alto aqui agora. 
+Raiane Gabriele dos Santos Pinheiro   42:38 
+Ficou bom assim? 
+Eu IA falar, eu IA falar, mas eu falei, AI, meu Deus, não vou falar, não vou falar, não vou 
+falar, não vou falar, não vou falar essa. Essas linhazinhas aqui dos negócios, dos 
+resultados. Eu não sei se eu gostei aqui do gráfico ou se eles ficarem aqui do nessa 
+nesse lugarzinho já não dá. 
+Rosilane Lessa da Fonte - PrestServ   42:43 
+Ah, Ah. 
+Não, mas eu tenho que falar, gente, é bom você falar. 
+Essa. 
+Raiane Gabriele dos Santos Pinheiro   43:02 
+AA compreensão de que do que eles estão se referindo, não é esses esses cantinho. 
+Assim fica parecendo que vira um bonequinho. 
+Rosilane Lessa da Fonte - PrestServ   43:13 
+Que essa a teia. 
+Raiane Gabriele dos Santos Pinheiro   43:16 
+É fora da tem essas linhazinhas assim que liga de 1000 que ela legenda o que é AA 
+bolinha. 
+Rosilane Lessa da Fonte - PrestServ   43:23 
+Ah, isso aqui. 
+Raiane Gabriele dos Santos Pinheiro   43:24 
+Isso. Não sei se eu, mas é. 
+Rosilane Lessa da Fonte - PrestServ   43:27 
+Ah, eu não é. Não sei se eu consigo tirar, mas eu posso tentar, eu não, aí eu não mexi 
+aqui para poder ver. 
+PÚBLICA 
+Raiane Gabriele dos Santos Pinheiro   43:33 
+Não sei se o Edu concorda que ficou assim, não sei. Você sabe que eu estou 
+acostumada com a nossa versão também, que não tem. 
+Rosilane Lessa da Fonte - PrestServ   43:35 
+Tá bom? 
+Eduardo Lopes de Sousa   43:39 
+É isso, Ana, nossa, não tem essas linhas. É radiais, né, radiais aí. 
+Rosilane Lessa da Fonte - PrestServ   43:41 
+Aham, é porque ele meio que elenca que é do visual. Eu não sei se ele me permite 
+retirar, mas eu posso ver aqui e tentar, tá? Se não conseguir aí eu. 
+Eduardo Lopes de Sousa   43:54 
+Tirar, talvez eu não consigo, mas talvez tu consiga mudar a cor, né? Ou deixar branca ou 
+um cinza, muito claro, alguma coisa assim, né Rose? 
+Rosilane Lessa da Fonte - PrestServ   43:54 
+Mas eu posso tentar. 
+Raiane Gabriele dos Santos Pinheiro   43:55 
+É? 
+Rosilane Lessa da Fonte - PrestServ   44:00 
+É, eu não sei se ele é, não sei se ele permite, entendeu? Se aí, se ele vai refletir para um 
+gráfico todo, entendeu que é tem aí eu tenho que avaliar aqui o que que eu tenho aqui 
+de elementos dentro desse visual que eu possa fazer ou não, entendeu? 
+Eduardo Lopes de Sousa   44:08 
+Entendi. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   44:19 
+Aqui nos desenhos da da linha, não sei se aqui, ó, trazendo aqui a linha é. 
+Eduardo Lopes de Sousa   44:20 
+Ok? 
+Uma beleza, você aí é especialista na panela bem lembrado, Ana, por favor. 
+Rosilane Lessa da Fonte - PrestServ   44:27 
+É? 
+Aham, aí eu vou. Eu vou ver se permitir eu tiro, tá bom? 
+Raiane Gabriele dos Santos Pinheiro   44:39 
+Bile? 
+Eduardo Lopes de Sousa   44:39 
+Tá ótimo, chega a 60 centavos. 
+Rosilane Lessa da Fonte - PrestServ   44:42 
+Aí fora isso, ele. Ele se mantém assim, né? É pra pra esses casos aqui, tá? Tudo tá tudo 
+direitinho, eu trouxe aqui também ao direcionador. 
+Eduardo Lopes de Sousa   44:55 
+Ótimo. 
+Rosilane Lessa da Fonte - PrestServ   44:57 
+Acho que aqui ficou, ficou bem aplicável aí. 
+Eduardo Lopes de Sousa   45:00 
+Que não tem aí que no nosso gráfico tem é a escala do gráfico. Eu não sei se ele mostra 
+também. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   45:07 
+É, não mostra, é isso que eu falei aqui, né? O valor no monstra. 
+Eduardo Lopes de Sousa   45:09 
+Então é, tá, então tá, beleza. 
+Rosilane Lessa da Fonte - PrestServ   45:15 
+É o que que eu IA falar? Aí deixa eu pegar aqui agora que eu IA pedir ajuda de vocês, que 
+tem os outros aqui. 
+Que eu deixa eu diminuir aqui um pouco. Eu vi que está um pouco diferente quando vai 
+pra, pra, pra outro posicionamento, né aqui ó, ele já traz só como ponto de atenção. Ele 
+não traz aquelas tabelas aí. Isso é assim mesmo, varia, né? 
+De cada de cada ponto de atenção, porque esse aqui? 
+De cada posicionamento eu estou falando de um ponto de atenção, cada de cada 
+posicionamento que esse aqui eu estou para para os de integridade, né? Aí quando eu 
+for falar de meio ambiente, o visual seria idêntico a esse ou não, porque eu vi que tem 
+diferença, né? 
+Esse outro aqui, ó, ele já tá diferente, ele já tem, ele só traz dados aqui de pontos de 
+atenção que eu até vi que vocês criaram a coluna lá, que naquele outro já não traz. 
+Eduardo Lopes de Sousa   46:27 
+Não? Então, o que é pra aquele ali? Acho que é alguma coisa que a gente não atualizou 
+o padrão que vocês devolveu é o padrão que a gente quer ter. Acho que pronto com 
+esses aí, não. 
+Rosilane Lessa da Fonte - PrestServ   46:35 
+Ah, tá perfeito. Então é, então vai ser idêntico aqueles esse mesmo, esse padrão aqui, 
+todos vão ser assim. 
+Eduardo Lopes de Sousa   46:40 
+Pode? 
+Isso, isso aí. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   46:45 
+Ah, perfeito, é isso que eu queria saber, tá bom? Show. 
+Então eu acho que era mais isso mesmo. Aí eu mantive aqui também, ó, que pode, em 
+vez de navegar só lá pela pela água que a gente também consegue navegar aqui. 
+Ah, tem um outro, tem uma outra questão aqui, ó. 
+Digamos, a gente caiu ali pro outro visual. Aí ao invés de botar uma setinha 
+aqui pra voltar, eu deixei voltando por aqui mesmo, tá? Ó aí não sei se pra vocês é 
+melhor colocar uma setinha mesmo dentro do. 
+Do visual, para poder voltar. 
+Eduardo Lopes de Sousa   47:26 
+Então, cara, tudo é costume, né, Rose? Isso aí é operar, não sei, depois se acostumar, 
+né? Eu hoje estou acostumado do do PowerPoint, mas. 
+Rosilane Lessa da Fonte - PrestServ   47:29 
+Hum, Hum. 
+Eduardo Lopes de Sousa   47:36 
+Uma setinha é a setinha de retorno. Querem que eu posso deixar aí? 
+Rosilane Lessa da Fonte - PrestServ   47:40 
+É porque eu já tenho um botão aqui que eu consigo voltar pra aquela tabela de 
+integridade. Aí eu não sei se pra vocês vocês preferem que também inclua uma setinha 
+em algum canto aqui de retorno? 
+Eduardo Lopes de Sousa   47:46 
+De que déficit? Déficit não questiona. 
+Não, não, porque senão vai aí, pô, já vai poluir o gráfico, cara. 
+Rosilane Lessa da Fonte - PrestServ   47:54 
+Vai poluir, né? É, então tá bom, eu acho que a princípio, são esses ajustes aí que a 
+gente conversou e eu vou trabalhar aqui de novo aqui no, no dado para poder corrigir 
+algumas questões. EE para poder ter uma forma de trazer de outra da daqueles eram, 
+PÚBLICA 
+né? 
+Vou trazer zero, eSIM em branco. Tenho esses pontos que a gente conversou, aí eu vou 
+fazer esses ajustes e vou ver se a gente marca uma reunião essa semana de novo, tá? 
+Pra gente, pra poder eu já mostrar pra vocês mais algumas coisas e tal e tá bom. 
+Eduardo Lopes de Sousa   48:31 
+Combinado, pô. 
+Raiane Gabriele dos Santos Pinheiro   48:31 
+Beleza. 
+Rosilane Lessa da Fonte - PrestServ   48:35 
+Aí eu vou dar, eu vou dar, eu vou ajustar aqui e trabalhar em cima do que a gente 
+conversou e depois vou ver se lá pra até quinta ou sexta-feira a gente volta a se falar 
+apresentando essas mudanças. 
+Raiane Gabriele dos Santos Pinheiro   48:35 
+Beleza. 
+Eduardo Lopes de Sousa   48:35 
+Bom, tudo bem. 
+Rosilane Lessa da Fonte - PrestServ   48:51 
+Está bom? 
+Raiane Gabriele dos Santos Pinheiro   48:52 
+Beleza. 
+Eduardo Lopes de Sousa   48:53 
+Tá, tá lindo, Rose. Tá lindo, tá lindo. 
+PÚBLICA 
+Rosilane Lessa da Fonte - PrestServ   48:55 
+Muito obrigada aí pelo apoio e a compreensão de vocês. 
+Raiane Gabriele dos Santos Pinheiro   48:57 
+Valeu. 
+Valeu, Rose. Valeu Edu. Tchau, tchau. 
+Rogerio Alcantara de Freita - PrestServ parou a transcrição 
+PÚBLICA
